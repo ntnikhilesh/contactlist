@@ -1,0 +1,17 @@
+{
+  "name": "contactlist",
+  "description": "A simple contact list",
+  "main": "",
+  "authors": [
+    "ntnikhilesh <nikhilesh.tripathi@cognitiveclouds.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ntnikhilesh/contactlist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
